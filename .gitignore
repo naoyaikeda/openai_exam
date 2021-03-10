@@ -1,0 +1,4 @@
+.vscode/
+setkey.sh
+*.ipynb
+*.html
